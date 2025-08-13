@@ -1,2 +1,1 @@
-Equivale a versão 6 da PLW
-Visual melhorado
+Equivale a versão 6 da PLW com visual melhorado
